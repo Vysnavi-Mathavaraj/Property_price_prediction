@@ -4,6 +4,8 @@ Our group is interested in the variables that affect the property value in Ameri
 # Data Collection
 Our intended population is homeowners of the United States from 2014 to 2018. The sample size is 18046 homes, after randomized and data cleaning, we used 5277 effective data in our multiple regression model. The data set is from American Community Survey 2014-2018 ACS 5-Year PUMS Files, which is a subset of the American Community Survey (ACS) Public Use Microdata Samples (PUMS) from US Census website.
 
+Dataset - https://www.census.gov/programs-surveys/acs/microdata/documentation.2018.html
+
 # Variable Selection
 Our data contains 237 factors (columns), but most variables are unrelated to our problems and some variables have strong correlations with other variables. We chose these variables based on trial and error using StatTools and SPSS to compare various models with different combinations. By the Forward, Stepwise, and Backward, we chose the model with the following variables (including dummy variables) that looked the strongest to us.
 
